@@ -1,2 +1,1 @@
-# papp
-Run Network Apps using HTML5/CSS/JS and Node.js/iWebPP.io
+Peer App(as papp) container, that define/launch/control papp.
